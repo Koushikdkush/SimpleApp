@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-
+import Login from './Component/SignIn.component';
 function App() {
   return (
     <div className="App">
@@ -9,14 +9,7 @@ function App() {
         <p>
           Welcome Koushik Web Hosting in Netlify free Hosting Service
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+       <Login></Login>
       </header>
     </div>
   );
