@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Welcome Koushik Web Hosting in Netlify free Hosting Service
         </p>
         <a
           className="App-link"
